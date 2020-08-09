@@ -4,12 +4,15 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "drone_mottaker": "github:svein-tore/drone_mottaker#master"
     },
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "tutorial.md",
+        "_locales/nb-NO/tutorial.md"
     ],
     "testFiles": [
         "test.ts"
