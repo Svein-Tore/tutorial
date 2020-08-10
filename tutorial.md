@@ -4,7 +4,7 @@
 Here is some text
 
 ```blocks
-basic.ShowString(":)")
+    basic.showString(":)")
 ```
 ## step 2
 
