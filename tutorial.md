@@ -4,7 +4,7 @@
 Here is some text
 
 ```blocks
-    basic.showstring(":)")
+    basic.showString(":)")
 ```
 ## step 2
 
